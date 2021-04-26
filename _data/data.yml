@@ -118,22 +118,15 @@ experiences:
           - Bullet point
 projects:
     title: Project
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Child Maintenance Group
         link: "#hook"
-        tagline: "The Department of Work and Pension is the largest government department in the UK and is responsible for welfare and pension policy. It provides support for children, pensioners, disabled people, and people of working age. The Child Maintenance Group (CMG) is one of the organizations which operate under the Department of Work and Pension. "
-details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point gh
+        tagline: "The Department of Work and Pension is the largest government department in the UK and is responsible for welfare and
+        pension policy. It provides support for children, pensioners, disabled people, and people of working age. The Child Maintenance Group (CMG) is one of the organizations which operate under the Department of Work and Pension. 
+       details: | he.
+         
+       - Bullet point
+          - Bullet point gh"
 
 
 skills:
