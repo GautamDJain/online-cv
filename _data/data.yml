@@ -81,16 +81,16 @@ education:
           - Bullet point
 experiences:
     - role: DevOps Engineer
-      time: APR 2019 - Present
+      time: APR 2019 - PRESENT
       company: Tata Consultancy Services, Mumbai
       details: |
           - Experience in Continuous Integration and Continuous Delivery (CI-CD) being core squad member and worked on Jenkins pipeline to unify development and deployment processes.
           - Worked on multiple Micro Service projects in developing the server-side application using NodeJs, Kafka, mongoDB, etc.
           - Having working knowledge in AWS and cloud service related activities.
           - Having good hands-on in creating and managing various Jenkins pipelines & Docker instances.
-          - Experience in working IBM cloud and integrating devops tools like JIRA, Jenkins, Maven, Gitlab and Nexus.
+          - Experience in working cloud environment and integrating devops tools like JIRA, Jenkins, Maven, Gitlab and Nexus.
           - Experience in managing Gitlab source code and Nexus artifact repository for middleware team and facilitating patches via CICD and update corresponding user story on JIRA status tracker.
-          - BExperience in continuous monitoring tools like ELK (Elasticsearch, Logstash, and Kibana) for monitoring BPM server status and BPM log analysis.
+          - Experience in continuous monitoring tools like ELK (Elasticsearch, Logstash, and Kibana) for monitoring BPM server status and BPM log analysis.
           - Experience in creating visualization and dashboards on Kibana for showing real time information.
           - Worked closely with the client and the onshore team to discuss project planning, requirements & product roadmap.
           - Involved in different phases of SDLC process and good working experience on Agile and Waterfall methodologies.
