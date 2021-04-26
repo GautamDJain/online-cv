@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Overall 4+ years of experience as Software Developer and DevOps Engineer in agile development environment on cloud platform. Developed a wide range of skills in DevOps and System Integration technology stacks. • Having strong experience in Linux, Shell Scripting(Bash) and administrative activities. • Hands on experience in Micro Service (NodeJs) and Java development. • Strong experience in developing ESB Enterprise Application  using IBM BPM (IID). • Having good working knowledge in APIs, Java utilities, performance tuning and troubleshooting. • Hands on experience in implementing end-to-end CICD automation.
+      Overall 4+ years of experience as Software Developer and DevOps Engineer in agile development environment on cloud platform. Developed a wide range of skills in DevOps and System Integration technology stacks. <ul>• Having strong experience in Linux, Shell Scripting(Bash) and administrative activities. </ul><ul>• Hands on experience in Micro Service (NodeJs) and Java development. </ul><ul>• Strong experience in developing ESB Enterprise Application using IBM BPM (IID). </ul><ul>• Having good working knowledge in APIs, Java utilities, performance tuning and troubleshooting. </ul><ul>• Hands on experience in implementing end-to-end CICD automation.</ul>
 education:
     - degree: B.E. in Computer Science
       university: Vishweshwaraiah Technological University
