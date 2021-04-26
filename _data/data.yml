@@ -54,7 +54,8 @@ career-profile:
        - Hands on experience in Micro Service (NodeJs) and Java development.
        - Strong experience in developing ESB Enterprise Application  using IBM BPM (IID).
        - Having good working knowledge in APIs, Java utilities, performance tuning and troubleshooting.
-       - Hands on experience in implementing end-to-end CICD automation.
+       - Hands on experience in implementing end-to-end CICD automation. 
+       - Self-motivated, quick Learner and a good team player. 
 education:
     - degree: B.E. in Computer Science
       university: Vishweshwaraiah Technological University
@@ -83,28 +84,29 @@ experiences:
       time: APR 2019 - Present
       company: Tata Consultancy Services, Mumbai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+          - Experience in Continuous Integration and Continuous Delivery (CI-CD) being core squad member and worked on Jenkins pipeline to unify development and deployment processes.
+          - Worked on multiple Micro Service projects in developing the server-side application using NodeJs, Kafka, mongoDB, etc.
+          - Having working knowledge in AWS and cloud service related activities.
+          - Having good hands-on in creating and managing various Jenkins pipelines & Docker instances.
+          - Experience in working IBM cloud and integrating devops tools like JIRA, Jenkins, Maven, Gitlab and Nexus.
+          - Experience in managing Gitlab source code and Nexus artifact repository for middleware team and facilitating patches via CICD and update corresponding user story on JIRA status tracker.
+          - BExperience in continuous monitoring tools like ELK (Elasticsearch, Logstash, and Kibana) for monitoring BPM server status and BPM log analysis.
+          - Experience in creating visualization and dashboards on Kibana for showing real time information.
+          - Worked closely with the client and the onshore team to discuss project planning, requirements & product roadmap.
+          - Involved in different phases of SDLC process and good working experience on Agile and Waterfall methodologies.
     - role: Integration Developer
       time: JAN 2017 - MAR 2019
       company: Tata Consultancy Services, Mumbai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Experience in developing Mediation modules and BPEL for flow orchestration using IBM WebSphere Integration Developer and deploying them on WebSphere Process Server v8.x.
+          - Experience in implementing the Enterprise application integration using IBM WebSphere Adapters for JDBC, Flat File, Siebel, JMS, and Email also exposing and consuming web and SCA services.
+          - Experience in understanding and implementing SSL concepts using WPS, DataPower and SFTPPlus.
+          - Experience in installing and configuring ProAtriaSFTPPlus and SFT to enable secure file transfer between external systems.
+          - Having good working knowledge in Java EE technologies like SpringBoot, Jersey, Spring and JDBC.
+          - Experience in Setting up clustered WebSphere MQ environment on IBM MQ 7.0 and created Queues, Queue Connection Factories and activation specifications on WebSphere process server.
+          - Experience in writing shell scripts in order to perform file transfers and file validations.
+          - Actively involved in all sprint activities like design discussion, elaboration meeting, daily stand-up, retrospective meeting, etc.
+          - Experience in create and review of functional and technical documentation like Service Contract Definition (SCD), Data Mapping Sheet (DMS), Level Design Document (LLD), Unit Test Plan (UTP), TDD, etc. 
 projects:
     title: Project
     assignments:
