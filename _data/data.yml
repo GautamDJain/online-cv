@@ -148,19 +148,19 @@ skills:
 
     toolset:
       - name: Linux & Bash Scripting
-        level: 98%
+        level: 92%
 
       - name:  IBM BPM & IID
-        level: 98%
+        level: 92%
 
       - name: Java & SpringBoot
-        level: 90%
+        level: 80%
 
       - name: HTML & CSS
-        level: 85%
+        level: 75%
 
       - name: NodeJs & Javascript
-        level: 75%
+        level: 65%
 
       - name: SQL & MongoDB
         level: 60%
