@@ -121,15 +121,8 @@ projects:
     assignments:
       - title: Child Maintenance Group
         link: "https://www.gov.uk/manage-child-maintenance-case"
-        tagline: "The Department of Work and Pension is the largest government department in the UK and is responsible for welfare and pension policy. It provides support for children, pensioners, disabled people, and people of working age. The Child Maintenance Group (CMG) is one of the organizations which operate under the Department of Work and Pension."
-        details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        tagline: "The Department of Work and Pension is the largest government department in the UK and is responsible for <b> welfare </b> and pension policy. It provides support for children, pensioners, disabled people, and people of working age. The Child Maintenance Group (CMG) is one of the organizations which operate under the Department of Work and Pension."
+        details: " \n        Describe your study here lorem ipsum dolor sit amet, consectetuer    \n\n     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum        sociis natoque penatibus et magnis dis parturient montes, nascetur        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,        pretium quis, sem.          - Bullet point - Bullet point"
 
 skills:
     title: Skills &amp; Proficiency
