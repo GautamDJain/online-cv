@@ -130,7 +130,7 @@ projects:
 
       - title: Canon Europe
         link: "https://www.canon-europe.com"
-        tagline: "Canon Europe, leading provider of digital cameras, digital SLR cameras, inkjet printers & professional printers for business and home users. Canon Europe handles regional sales and marketing operations for Europe, the Middle East and Africa. <br><b>Helpdesk to Helpdesk (HD2HD)</b> is a functional part of Canon Europe and this integration aims at integrating the Customer Service Desk with Canon Field Service systems to simplify the service support management."
+        tagline: "Canon Europe, leading provider of digital cameras, digital SLR cameras, inkjet printers & professional printers for business and home users. Canon Europe handles regional sales and marketing operations for Europe, the Middle East and Africa. <br><ul><b>Helpdesk to Helpdesk (HD2HD)</b> - is a functional part of Canon Europe and this integration aims at integrating the Customer Service Desk with Canon Field Service systems to simplify the service support management.</ul>"
        
 skills:
     title: Skills &amp; Proficiency
