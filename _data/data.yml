@@ -80,6 +80,27 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Middleware Consultant
+      time: MAY 2021 - PRESENT
+      company: Capgemini Technology Services, Mumbai
+      details: |
+          - Experience in Continuous Integration and Continuous Delivery (CI-CD) being core squad member and worked on Jenkins pipeline to unify development and deployment processes.
+          - Worked on multiple Micro Service projects in developing the server-side application using NodeJs, Kafka, mongoDB, etc.
+          - Having working knowledge in AWS and cloud service related activities.
+          - Having good hands-on in creating and managing various Jenkins pipelines & Docker instances.
+          - Experience in working cloud environment and integrating devops tools like JIRA, Jenkins, Maven, Gitlab and Nexus.
+          - Experience in managing Gitlab source code and Nexus artifact repository for middleware team and facilitating patches via CICD and update corresponding user story on JIRA status tracker.
+          - Experience in continuous monitoring tools like ELK (Elasticsearch, Logstash, and Kibana) for monitoring BPM server status and BPM log analysis.
+          - Experience in creating visualization and dashboards on Kibana for showing real time information.
+          - Worked closely with the client and the onshore team to discuss project planning, requirements & product roadmap.
+          - Involved in different phases of SDLC process and good working experience on Agile and Waterfall methodologies.
+projects:
+    title: Project
+    assignments:
+      - title: Child Maintenance Group
+        link: "https://www.gov.uk/manage-child-maintenance-case"
+        tagline: "Canon Europe, leading provider of digital cameras, digital SLR cameras, inkjet printers & professional printers for business and home users. Canon Europe handles regional sales and marketing operations for Europe, the Middle East and Africa. Helpdesk to Helpdesk (HD2HD) is a functional part of Canon Europe and this integration aims at integrating the Customer Service Desk with Canon Field Service systems to simplify the service support management."
+       
     - role: DevOps Engineer
       time: APR 2019 - PRESENT
       company: Tata Consultancy Services, Mumbai
