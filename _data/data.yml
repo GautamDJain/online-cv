@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Gautam Jain
-    tagline: DevOps Engineer
+    name: Gautam D
+    tagline: Middleware Consultant (IBM BPM/BAW)
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -119,17 +119,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: IBM BPM & IID
+        level: 92%
+
+      - name:  IBM BAW & IID
+        level: 92%
+              
       - name: Linux & Bash Scripting
-        level: 92%
+        level: 90%
 
-      - name:  IBM BPM & IID
-        level: 92%
-
-      - name: Java & SpringBoot
+      - name: Core Java
         level: 80%
+              
+      - name: CI-CD & DevOps
+        level: 75%
 
       - name: HTML & CSS
-        level: 75%
+        level: 70%
 
       - name: NodeJs & Javascript
         level: 65%
