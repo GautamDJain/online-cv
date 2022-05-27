@@ -85,16 +85,17 @@ experiences:
       time: MAY 2021 - PRESENT
       company: Capgemini Technology Services, Bangalore
       details: |
-          - Experience in Continuous Integration and Continuous Delivery (CI-CD) being core squad member and worked on Jenkins pipeline to automate development and deployment processes.
-          - Have working knowledge in AWS and other cloud service related activities and agile methodology.
-          - Worked on multiple Micro Service projects in developing server-side application using NodeJs express framework and connecting Kafka, mongoDB & other services.
-          - Having well hands-on experience in configuring and managing various Jenkins pipelines & Docker instances.
-          - Experience in working cloud environments and integrating devops tools like JIRA, Jenkins, Maven, Gitlab and Nexus.
-          - Experience in managing Gitlab source code and Nexus artifact repository for middleware team and facilitating patches via CICD automation.
-          - Experience in continuous monitoring tools like ELK (Elasticsearch, Logstash, and Kibana) for monitoring BPM server status and BPM log analysis.
-          - Experience in creating visualization and dashboards on Kibana for showing real time information.
-          - Worked closely with the client and the onshore team to discuss project planning, requirements & product roadmap.
-          - Involved in different phases of SDLC process and good working experience on Agile and Waterfall methodologies.
+          - Worked on migrating IBM BPM V8.5.0 artifacts to IBM Business Automation Workflow V20.0.0.2 to improve application performance and enhance system security.
+          - Involved into analysis, design phase to migrate artifacts and setting up IBM Websphere server on upgraded IBM BAW environment.
+          - Worked on fixing IBM BPM to BAW migration custom java issues and modified artifacts to accommodate migration requirements.
+          - Created new IBM BAW applications using IBM IID V20.0.0.2 as part of BPM to BAW migration activity.
+          - Involved into analysis, design phase and meetings for the business requirements and understand customer needs to streamline/automate their processes.
+          - Requirements gathering from Client to understand business functionality for all the differentregions.
+          - Involved in business discussions with client and suggested different approach to handle the business scenarios and given inputs for setting up system architecture.
+          - Communicating with the client, onsite Team lead and Developers to filter out genuine blockages and failures.
+          - Conduct plays back sessions with business and other stakeholders to demonstrate process flow and functionality.
+          - Trained new resources about the application and system flow.
+          - Mentoring, guiding junior resources whilst assigning tasks and working closely to get the tasks to closure.
     - role: DevOps Engineer
       time: APR 2020 - MAY 2021
       company: Tata Consultancy Services, Mumbai
