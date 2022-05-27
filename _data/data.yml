@@ -49,12 +49,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Overall 4.5 years of experience as Software Developer and DevOps Engineer in agile development environment on cloud platform. Developed a wide range of skills in DevOps and System Integration technology stacks.
-       - Having strong experience in Linux, Shell Scripting(Bash) and administrative activities.
-       - Hands on experience in Micro Service (NodeJs) and Java development.
-       - Strong experience in developing ESB Enterprise Application  using IBM BPM (IID).
-       - Having good working knowledge in APIs, Java utilities, performance tuning and troubleshooting.
-       - Hands on experience in implementing end-to-end CICD automation. 
+      Total 5.5+ years of work experience in IT sector and worked majorly on IBM BPM (middleware) design and development and also experience in IBM BPM to BAW migration. Developed wide range of skills in Middleware Integration and DevOps technology stacks.
+       - Has 4+ years of experience in design and developing IBM Business Process Management Applications using IBM BPM IID 8.5.X and IBM BAW IID 20.0.X.
+       - Worked on design & migration of BPM Application to BAW as part of IBM BPM to IBM BAW migration project and played major role in the BAW upgrade team.
+       - Has team leading experience of managing team of 4 resources, which includes client interaction, discussing business process flows and estimating the same.
+       - Having 2+ years of experience in DevOps, Shell scripting and Core Java Technologies.
+       - Having experience in Linux, Shell Scripting (Bash) and administrative activities.
+       - Hands on experience in implementing end-to-end CICD automation as part of DevOps.
        - Self-motivated, quick Learner and a good team player. 
 education:
     - degree: B.E. in Computer Science
@@ -130,7 +131,7 @@ projects:
 
       - title: Canon Europe
         link: "https://www.canon-europe.com"
-        tagline: "Canon Europe, leading provider of digital cameras, digital SLR cameras, inkjet printers & professional printers for business and home users. Canon Europe handles regional sales and marketing operations for Europe, the Middle East and Africa. <br><ul><b>Helpdesk to Helpdesk (HD2HD)</b> - is a functional part of Canon Europe and this integration aims at integrating the Customer Service Desk with Canon Field Service systems to simplify the service support management.</ul>"
+        tagline: "Canon Europe, leading provider of digital cameras, digital SLR cameras, inkjet printers & professional printers for business and home users. Canon Europe handles regional sales and marketing operations for Europe, the Middle East and Africa. <br><br><ul><b>Helpdesk to Helpdesk (HD2HD)</b> - is a functional part of Canon Europe and this integration aims at integrating the Customer Service Desk with Canon Field Service systems to simplify the service support management.</ul>"
        
 skills:
     title: Skills &amp; Proficiency
